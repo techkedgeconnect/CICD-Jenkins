@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: techkedgec0nnect/modern-cicd-java-app:replaceImageTag
+        image: techkedgec0nnect/modern-cicd-java-app:5
         ports:
         - containerPort: 8080
